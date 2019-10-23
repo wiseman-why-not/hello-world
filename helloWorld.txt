@@ -1,0 +1,3 @@
+This some text to the file that i want to control with git and see
+how everything operates and takes place. this is example text and
+will be changed over the course of the lesson.
